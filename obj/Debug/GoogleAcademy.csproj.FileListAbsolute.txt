@@ -1,0 +1,7 @@
+E:\Repos\GoogleAcademy\bin\Debug\GoogleAcademy.exe.config
+E:\Repos\GoogleAcademy\bin\Debug\GoogleAcademy.exe
+E:\Repos\GoogleAcademy\bin\Debug\GoogleAcademy.pdb
+E:\Repos\GoogleAcademy\obj\Debug\GoogleAcademy.csprojAssemblyReference.cache
+E:\Repos\GoogleAcademy\obj\Debug\GoogleAcademy.csproj.CoreCompileInputs.cache
+E:\Repos\GoogleAcademy\obj\Debug\GoogleAcademy.exe
+E:\Repos\GoogleAcademy\obj\Debug\GoogleAcademy.pdb
