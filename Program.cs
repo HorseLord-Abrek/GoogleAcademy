@@ -12,6 +12,7 @@ namespace GoogleAcademy
         {
             Console.WriteLine("This is a line!");
             Console.WriteLine("This is a line as well!");
+            Console.Write("\n New Line With Write");
             Console.ReadLine();
         }
     }
