@@ -10,7 +10,8 @@ namespace GoogleAcademy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("This is a line!");
+            Console.WriteLine("This is a line as well!");
             Console.ReadLine();
         }
     }
